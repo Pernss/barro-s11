@@ -1,0 +1,35 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background: #EEEEEE;
+}
+div .photo {
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+}
+.photo1 {
+  display: block;
+}
+.thumbnails {
+  border: 2px solid blue;
+}
+
+.projects-p img {
+  height: 300px;
+  width: 300px;
+  border: 3px solid teal;
+}
+.projects-p {
+  display: inline-block;
+  border: 5px solid black;
+}
+
+#biography hr {
+  border-top: 1px solid gray;
+}
+
+hr {
+  border-top: 3px solid teal;
+}
