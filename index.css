@@ -34,3 +34,10 @@ div .photo {
 hr {
   border-top: 3px solid teal;
 }
+.hobbies-img {
+  height: 250px;
+  width: 350px;  
+}
+.tools-img {
+  width: 80px;
+}
