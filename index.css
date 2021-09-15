@@ -1,3 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 html {
   scroll-behavior: smooth;
 }
@@ -36,8 +41,13 @@ hr {
 }
 .hobbies-img {
   height: 250px;
-  width: 350px;  
+  width: 350px;
 }
 .tools-img {
   width: 80px;
+}
+#gmap_canvas {
+  height: 60vh;
+  width: 100%;
+  border: 2px solid indianred;
 }
